@@ -1,7 +1,8 @@
-hello
-Git
+Hello!
 
-Its cool
+THIS IS A NOTE About USE SPDIR BY PYTHON
 
 
-New
+
+
+
